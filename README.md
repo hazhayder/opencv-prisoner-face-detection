@@ -9,9 +9,14 @@ Adding a prisoner is hell simple all you have to do is to fill up the text field
 
 Detecting a prisoner's face
 Upon detecting the prisoner's face it will show the details of the prisoners stored in database
+
 #Requirements
 1. MySQL
 2. OpenCV
 3. JavaFX
+
+Note: OpenCV is not included in this project you must install OpenCV and compile it on your system and then add jars to this project this will work.
+
+OpenCV Installation Link-> https://docs.opencv.org/2.4/doc/tutorials/introduction/java_eclipse/java_eclipse.html
 
 The complete project is uploaded so you can reuse it as per your requirement. 
